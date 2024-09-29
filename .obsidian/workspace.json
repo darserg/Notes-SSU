@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "2f99bd0ba95ff310",
+    "type": "split",
+    "children": [
+      {
+        "id": "047862dc02599c5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8675bf5b010cbf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d4e3943aa84a312",
+    "type": "split",
+    "children": [
+      {
+        "id": "ace3785caee4410c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2ac687ccd44ba0a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e50e1d5d9523ccc2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a48bc98b07f1204a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "671b8efb9501477b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6abe5f93fc962d1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd6b1e44fa7eab8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3b4c3905e52dc38",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87bf9249fe7b868e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0334d5b8e65d6bdc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d8675bf5b010cbf5",
+  "lastOpenFiles": [
+    "README.md",
+    "R",
+    "Desktop/Универ/Конспекты",
+    "Desktop/Универ",
+    "Desktop",
+    "https:/github.com/darserg/Notes-SSU.git",
+    "https:/github.com/darserg",
+    "https:/github.com",
+    "https:",
+    "Прога Лекции/Программирование 9.08.2024.md",
+    "Прога Лекции/Программирование 23_09_2024.md",
+    "Прога Лекции/Программирование 16_09_2024.md",
+    "Прога Лекции",
+    "История 131/История 27_09_2024.md",
+    "История 131/История 20_09_2024.md",
+    "История 131/История 13_09_2024.md",
+    "История 131",
+    "Английский Карпец/English.md",
+    "Английский Карпец/English 23_09_2024.md",
+    "Английский Карпец/English 18_09_2024.md",
+    "Screenshot 2024-09-25 at 20.15.38.png.md"
+  ]
+}
