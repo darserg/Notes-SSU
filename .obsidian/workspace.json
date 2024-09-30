@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Техническая литература/C++ введение.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c955352d4e1517d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Прога Лекции/Программирование 30_09_2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8675bf5b010cbf5",
+  "active": "c955352d4e1517d4",
   "lastOpenFiles": [
-    "Dev Clubs/Git, часть 1.pdf",
+    "Техническая литература/C++ введение.md",
     "Прога Лекции/Программирование 30_09_2024.md",
+    "Dev Clubs/Git, часть 1.pdf",
     "Прога Лекции/Программирование 9_08_2024.md",
     "История практика 131/История 27_09_2024.md",
     "Рецензия портрет (ChatGPT).md",
@@ -170,7 +184,6 @@
     "https:/github.com/darserg/Notes-SSU.git",
     "https:/github.com/darserg",
     "https:/github.com",
-    "https:",
     "Прога Лекции/Программирование 23_09_2024.md",
     "Прога Лекции/Программирование 16_09_2024.md",
     "Английский Карпец/English.md",
