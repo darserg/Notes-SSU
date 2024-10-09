@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ОРГ/ОРГ 24_09_2024.md",
+                "file": "Английский Карпец/English 7_10_2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "671b8efb9501477b",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ОРГ/ОРГ 24_09_2024.md",
+                "file": "Английский Карпец/English 7_10_2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ОРГ/ОРГ 24_09_2024.md",
+                "file": "Английский Карпец/English 7_10_2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ОРГ/ОРГ 24_09_2024.md"
+                "file": "Английский Карпец/English 7_10_2024.md"
               }
             }
           }
@@ -150,8 +149,8 @@
   "active": "8222f0d1f41f591e",
   "lastOpenFiles": [
     "ОРГ/ОРГ 8_10_2024.md",
-    "ОРГ/ОРГ 17_09_2024.md",
     "ОРГ/ОРГ 24_09_2024.md",
+    "ОРГ/ОРГ 17_09_2024.md",
     "ОРГ/Доклад \"Золотое кольцо России\".md",
     "Прога Лекции/Программирование 7_10_2024.md",
     "Техническая литература/C++ введение.md",
