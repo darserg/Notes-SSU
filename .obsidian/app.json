@@ -8,5 +8,7 @@
   },
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "Attachments",
+  "vimMode": false,
+  "defaultViewMode": "source"
 }

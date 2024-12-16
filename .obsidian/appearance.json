@@ -1,6 +1,6 @@
 {
   "theme": "obsidian",
-  "textFontFamily": "JetbrainsMono",
-  "interfaceFontFamily": "Jetbrains Mono",
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
   "cssTheme": "Typewriter"
 }
