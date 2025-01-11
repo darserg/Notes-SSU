@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "692aeb289c17cf1a",
+        "id": "cf9462b0dc63b671",
         "type": "tabs",
         "children": [
           {
-            "id": "80afb9acad500a11",
+            "id": "2e7aeef3fbaf6b36",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,8 +163,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80afb9acad500a11",
+  "active": "2e7aeef3fbaf6b36",
   "lastOpenFiles": [
+    "Attachments/Sketch 13.png",
+    "Attachments/Sketch 12.png",
+    "Attachments/Sketch 11.png",
+    "Геометрия/Билеты экзамен.md",
     "Attachments/Sketch 10.png",
     "Attachments/Sketch 9.png",
     "Attachments/Sketch 8.png",
@@ -172,12 +176,8 @@
     "Attachments/Sketch 6.png",
     "Attachments/Sketch 5.png",
     "Attachments/Sketch 4.png",
-    "Геометрия/Билеты экзамен.md",
     "Attachments/Sketch 3.png",
     "Алгебра/Глава 5/Глава 5. Комплексные числа (лекции).md",
-    "Attachments/Sketch 2.png",
-    "Attachments/Sketch 1.png",
-    "Attachments/Sketch.png",
     "Геометрия/Досрок Билеты.md",
     "Алгебра/Глава 4/Глава 4. Алгебра матриц.md",
     "Алгебра/Глава 3/Глава 3. Системы линейных уравнений.md",
