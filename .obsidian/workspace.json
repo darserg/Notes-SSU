@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "692aeb289c17cf1a",
+        "id": "cf9462b0dc63b671",
         "type": "tabs",
         "children": [
           {
-            "id": "80afb9acad500a11",
+            "id": "2e7aeef3fbaf6b36",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,17 +163,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80afb9acad500a11",
+  "active": "2e7aeef3fbaf6b36",
   "lastOpenFiles": [
-    "Attachments/photo_2025-01-05 16.41.10.jpg",
-    "Attachments/Screenshot 2025-01-09 at 18.03.57.png",
-    "Attachments/Screenshot 2025-01-09 at 18.46.25.png",
-    "Attachments/Screenshot 2025-01-09 at 18.43.31.png",
+    "Attachments/Sketch 13.png",
+    "Attachments/Sketch 12.png",
+    "Attachments/Sketch 11.png",
     "Геометрия/Билеты экзамен.md",
-    "Attachments/Untitled 2.jpg",
-    "Attachments/Untitled 1.jpg",
-    "Геометрия/Досрок Билеты.md",
+    "Attachments/Sketch 10.png",
+    "Attachments/Sketch 9.png",
+    "Attachments/Sketch 8.png",
+    "Attachments/Sketch 7.png",
+    "Attachments/Sketch 6.png",
+    "Attachments/Sketch 5.png",
+    "Attachments/Sketch 4.png",
+    "Attachments/Sketch 3.png",
     "Алгебра/Глава 5/Глава 5. Комплексные числа (лекции).md",
+    "Геометрия/Досрок Билеты.md",
     "Алгебра/Глава 4/Глава 4. Алгебра матриц.md",
     "Алгебра/Глава 3/Глава 3. Системы линейных уравнений.md",
     "Алгебра/Глава 2/Глава 2. Координатное линейное пространство.md",
@@ -183,8 +188,6 @@
     "Алгебра/Глава 1/Определитель Вандермонда.md",
     "Алгебра/Глава 1/Перестановки и определители.md",
     "Алгебра/Глава 1/Свойства определителя.md",
-    "Attachments/Untitled.jpg",
-    "Attachments/Screenshot 2025-01-03 at 13.01.22.png",
     "Untitled.canvas",
     "Алгебра/Глава 5/Глава 5. Комплексные числа.md",
     "Геометрия/Вопросы на экзамен и досрок.md",
@@ -208,8 +211,6 @@
     "Алгебра/Глава 3",
     "Алгебра/Глава 4",
     "Алгебра/Глава 2",
-    "Алгебра/Глава 1",
-    "DSC_2056_FILM.jpg",
-    "Screenshot 2024-10-07 at 09.10.20.png"
+    "Алгебра/Глава 1"
   ]
 }
