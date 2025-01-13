@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "МАТАН/Святые определения.md",
+                "file": "МАТАН/Последовательности комплексных чисел.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Святые определения"
+              "title": "Последовательности комплексных чисел"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "МАТАН/Святые определения.md",
+                "file": "МАТАН/Последовательности комплексных чисел.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Святые определения"
+              "title": "Backlinks for Последовательности комплексных чисел"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "МАТАН/Святые определения.md",
+                "file": "МАТАН/Последовательности комплексных чисел.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Святые определения"
+              "title": "Outgoing links from Последовательности комплексных чисел"
             }
           },
           {
@@ -139,28 +139,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "МАТАН/Святые определения.md"
+                "file": "МАТАН/Последовательности комплексных чисел.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Святые определения"
-            }
-          },
-          {
-            "id": "fffb1abc78966d6a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Последовательности комплексных чисел"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,9 +167,14 @@
   },
   "active": "b1afe58c2cc253bb",
   "lastOpenFiles": [
+    "МАТАН/Святые определения.md",
+    "МАТАН/Последовательности комплексных чисел.md",
+    "МАТАН/Untitled.md",
+    "TASK FIIT.md",
+    "Attachments/Screenshot 2025-01-13 at 19.56.44.png",
+    "Attachments/Screenshot 2025-01-13 at 19.34.45.png",
     "Геометрия/Билеты.md",
     "Геометрия/Ответы с досрока.md",
-    "МАТАН/Святые определения.md",
     "Геометрия/Билеты экзамен.md",
     "Геометрия/Досрок/Ответы на экзамен.md",
     "Геометрия/Досрок",
@@ -204,10 +200,7 @@
     "Прога Лекции/Декабрь/Программирование 2_12_2024.md",
     "Прога Лекции/Декабрь",
     "ОРГ/Сентябрь/ОРГ 24_09_2024 Лекция.md",
-    "ОРГ/Сентябрь/ОРГ 17_09_2024 Практика.md",
-    "ОРГ/Сентябрь/Доклад \"Золотое кольцо России\".md",
     "ОРГ/Сентябрь",
-    "ОРГ/Октябрь/ОРГ 8_10_2024 Лекция.md",
     "ОРГ/Октябрь",
     "ОРГ/Ноябрь/Сообщение Норвегия/norway.pdf",
     "ОРГ/Ноябрь/Сообщение Норвегия",
@@ -219,8 +212,6 @@
     "Attachments/Sketch.png",
     "Attachments/Sketch 9.png",
     "Attachments/Sketch 8.png",
-    "Attachments/Sketch 7.png",
-    "Attachments/Sketch 6.png",
-    "Attachments/Sketch 5.png"
+    "Attachments/Sketch 7.png"
   ]
 }
