@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "МАТАН/Пределы и непрерывность функции.md",
+                "file": "TASK FIIT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Пределы и непрерывность функции"
+              "title": "TASK FIIT"
             }
           },
           {
@@ -27,28 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "МАТАН/Пределы и непрерывность функции.md",
+                "file": "МАТАН/Символы Ландау.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Пределы и непрерывность функции"
-            }
-          },
-          {
-            "id": "d84a6cf2a4f0c941",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/График 3.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "График 3"
+              "title": "Символы Ландау"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,10 +180,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "48f4817d22a12c70",
+  "active": "b1afe58c2cc253bb",
   "lastOpenFiles": [
-    "Excalidraw/График 3.md",
+    "Attachments/photo_2025-01-14 09.22.45.jpeg",
     "МАТАН/Пределы и непрерывность функции.md",
+    "МАТАН/Символы Ландау.md",
+    "Excalidraw/График 4.md",
+    "Excalidraw/График 3.md",
     "Excalidraw/График 2.md",
     "Excalidraw/График 1.md",
     "МАТАН/Последовательности векторов пространства Rm.md",
@@ -223,10 +213,7 @@
     "Прога Лекции/Сентябрь",
     "Прога Лекции/Октябрь/Программирование 7_10_2024.md",
     "Прога Лекции/Октябрь/Программирование 28_10_2024.md",
-    "Прога Лекции/Октябрь/Программирование 21_10_2024.md",
-    "Прога Лекции/Октябрь/Программирование 14_10_2024.md",
     "Прога Лекции/Октябрь",
-    "Прога Лекции/Ноябрь/Программирование 25_11_2024.md",
     "Прога Лекции/Ноябрь",
     "Прога Лекции/Декабрь",
     "ОРГ/Сентябрь",
