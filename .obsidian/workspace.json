@@ -22,15 +22,15 @@
             }
           },
           {
-            "id": "d362dc5c17b57c75",
+            "id": "0a9eb33499491ed1",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/График 11.md"
+                "file": "Excalidraw/График 12.md"
               },
               "icon": "excalidraw-icon",
-              "title": "График 11"
+              "title": "График 12"
             }
           }
         ]
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "671b8efb9501477b",
@@ -179,9 +180,11 @@
   },
   "active": "19d2b7d20cd8c456",
   "lastOpenFiles": [
-    "МАТАН/Последовательности комплексных чисел.md",
+    "Excalidraw/График 12.md",
     "МАТАН/Пределы и непрерывность функции.md",
+    "Excalidraw/График 4.md",
     "Excalidraw/График 11.md",
+    "МАТАН/Последовательности комплексных чисел.md",
     "Excalidraw/График 10.md",
     "Excalidraw/График 9.md",
     "Excalidraw/График 8.md",
@@ -191,7 +194,6 @@
     "МАТАН/Символы Ландау.md",
     "TASK FIIT.md",
     "Attachments/photo_2025-01-14 09.22.45.jpeg",
-    "Excalidraw/График 4.md",
     "Excalidraw/График 3.md",
     "Excalidraw/График 2.md",
     "Excalidraw/График 1.md",
@@ -209,7 +211,6 @@
     "Геометрия/Определения.md",
     "Геометрия/Вопросы на экзамен и досрок.md",
     "Техническая литература/Улучшение кода.md",
-    "Прога Лекции/Сентябрь/Программирование 9_09_2024.md",
     "Прога Лекции/Сентябрь",
     "Прога Лекции/Октябрь",
     "Прога Лекции/Ноябрь",
