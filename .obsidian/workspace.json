@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "34282c961af5ef8f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-14 23.53.31.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-14 23.53.31.excalidraw"
+            }
+          },
+          {
             "id": "0a9eb33499491ed1",
             "type": "leaf",
             "state": {
@@ -180,8 +192,9 @@
   },
   "active": "19d2b7d20cd8c456",
   "lastOpenFiles": [
-    "Excalidraw/График 12.md",
+    "Excalidraw/Drawing 2025-01-14 23.53.31.excalidraw.md",
     "МАТАН/Пределы и непрерывность функции.md",
+    "Excalidraw/График 12.md",
     "Excalidraw/График 4.md",
     "Excalidraw/График 11.md",
     "МАТАН/Последовательности комплексных чисел.md",
@@ -210,7 +223,6 @@
     "Геометрия/Досрок Билеты.md",
     "Геометрия/Определения.md",
     "Геометрия/Вопросы на экзамен и досрок.md",
-    "Техническая литература/Улучшение кода.md",
     "Прога Лекции/Сентябрь",
     "Прога Лекции/Октябрь",
     "Прога Лекции/Ноябрь",
