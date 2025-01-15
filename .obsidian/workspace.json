@@ -13,36 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "МАТАН/Пределы и непрерывность функции.md",
+                "file": "МАТАН/Дифференциальное исчесление производные.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Пределы и непрерывность функции"
+              "title": "Дифференциальное исчесление производные"
             }
           },
           {
-            "id": "34282c961af5ef8f",
+            "id": "b28967d13e2231c3",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-14 23.53.31.excalidraw.md"
+                "file": "Excalidraw/График 15.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-14 23.53.31.excalidraw"
-            }
-          },
-          {
-            "id": "0a9eb33499491ed1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/График 12.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "График 12"
+              "title": "График 15"
             }
           }
         ]
@@ -101,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "671b8efb9501477b",
@@ -192,8 +179,12 @@
   },
   "active": "19d2b7d20cd8c456",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-01-14 23.53.31.excalidraw.md",
+    "Excalidraw/График 15.md",
+    "МАТАН/Дифференциальное исчесление производные.md",
+    "МАТАН/Дифференциальное исчисление.md",
     "МАТАН/Пределы и непрерывность функции.md",
+    "Excalidraw/График 14.md",
+    "Excalidraw/График 13.md",
     "Excalidraw/График 12.md",
     "Excalidraw/График 4.md",
     "Excalidraw/График 11.md",
@@ -218,11 +209,7 @@
     "Геометрия/Билеты.md",
     "Геометрия/Ответы с досрока.md",
     "Геометрия/Билеты экзамен.md",
-    "Геометрия/Досрок/Ответы на экзамен.md",
     "Геометрия/Досрок",
-    "Геометрия/Досрок Билеты.md",
-    "Геометрия/Определения.md",
-    "Геометрия/Вопросы на экзамен и досрок.md",
     "Прога Лекции/Сентябрь",
     "Прога Лекции/Октябрь",
     "Прога Лекции/Ноябрь",
