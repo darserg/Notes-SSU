@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cf9462b0dc63b671",
+        "id": "95150eb18c701f9e",
         "type": "tabs",
         "children": [
           {
-            "id": "406371758d072bbb",
+            "id": "19d2b7d20cd8c456",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Геометрия/Билеты экзамен.md",
+                "file": "МАТАН/Пределы и непрерывность функции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Билеты экзамен"
-            }
-          },
-          {
-            "id": "7adee3d01a90b1c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Геометрия/Ответы с досрока.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ответы с досрока"
+              "title": "Пределы и непрерывность функции"
             }
           }
         ]
@@ -66,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#signatures",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Прога Лекции/Программирование 14_10_2024.md",
+                "file": "МАТАН/Пределы и непрерывность функции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Программирование 14_10_2024"
+              "title": "Backlinks for Пределы и непрерывность функции"
             }
           },
           {
@@ -126,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Прога Лекции/Программирование 14_10_2024.md",
+                "file": "МАТАН/Пределы и непрерывность функции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Программирование 14_10_2024"
+              "title": "Outgoing links from Пределы и непрерывность функции"
             }
           },
           {
@@ -153,13 +139,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Прога Лекции/Программирование 14_10_2024.md"
+                "file": "МАТАН/Пределы и непрерывность функции.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Программирование 14_10_2024"
+              "title": "Outline of Пределы и непрерывность функции"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -173,57 +160,58 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "406371758d072bbb",
+  "active": "19d2b7d20cd8c456",
   "lastOpenFiles": [
-    "Геометрия/Ответы с досрока.md",
-    "Геометрия/Варианты досрок.md",
-    "Геометрия/Билеты экзамен.md",
-    "Геометрия/Билеты.md",
-    "Attachments/Sketch 13.png",
-    "Attachments/Sketch 12.png",
-    "Attachments/Sketch 11.png",
-    "Attachments/Sketch 10.png",
+    "МАТАН/Святые определения.md",
+    "МАТАН/Последовательности.md",
+    "МАТАН/Дифференциальное исчисление.md",
+    "МАТАН/Святые определения шпора.md",
+    "МАТАН/Пределы и непрерывность функции.md",
+    "МАТАН/Последовательности комплексных чисел и векторов Rm.md",
+    "МАТАН/Последовательности векторов пространства Rm.md",
+    "МАТАН/Конспект для колоквиума.md",
+    "Excalidraw/Drawing 2025-01-15 21.38.46.excalidraw.md",
+    "Excalidraw/График 1.md",
+    "Excalidraw/График 16.md",
+    "Excalidraw/График 14.md",
+    "Excalidraw/График 15.md",
+    "Excalidraw/График 13.md",
+    "Excalidraw/График 12.md",
+    "Excalidraw/График 4.md",
+    "Excalidraw/График 11.md",
+    "Excalidraw/График 10.md",
+    "Excalidraw/График 9.md",
+    "Excalidraw/График 8.md",
+    "Excalidraw/График 6.md",
+    "Excalidraw/График 7.md",
+    "МАТАН/Символы Ландау.md",
+    "TASK FIIT.md",
+    "Attachments/photo_2025-01-14 09.22.45.jpeg",
+    "Excalidraw/График 3.md",
+    "Excalidraw/График 2.md",
+    "Excalidraw",
+    "Attachments/Screenshot 2025-01-13 at 19.56.44.png",
+    "Attachments/Screenshot 2025-01-13 at 19.34.45.png",
+    "Геометрия/Досрок",
+    "Прога Лекции/Сентябрь",
+    "Прога Лекции/Октябрь",
+    "Прога Лекции/Ноябрь",
+    "Прога Лекции/Декабрь",
+    "ОРГ/Сентябрь",
+    "ОРГ/Октябрь",
+    "ОРГ/Ноябрь/Сообщение Норвегия/norway.pdf",
+    "ОРГ/Ноябрь/Сообщение Норвегия",
+    "Attachments/photo_2025-01-05 16.41.10.jpg",
+    "Attachments/Untitled.jpg",
+    "Attachments/Untitled 2.jpg",
+    "Attachments/Untitled 1.jpg",
+    "Attachments/Sketch.png",
     "Attachments/Sketch 9.png",
-    "Attachments/Sketch 8.png",
-    "Attachments/Sketch 7.png",
-    "Attachments/Sketch 6.png",
-    "Attachments/Sketch 5.png",
-    "Attachments/Sketch 4.png",
-    "Алгебра/Глава 5/Глава 5. Комплексные числа (лекции).md",
-    "Геометрия/Досрок Билеты.md",
-    "Алгебра/Глава 4/Глава 4. Алгебра матриц.md",
-    "Алгебра/Глава 3/Глава 3. Системы линейных уравнений.md",
-    "Алгебра/Глава 2/Глава 2. Координатное линейное пространство.md",
-    "Алгебра/Зачёт.md",
-    "Алгебра/Глава 1/Глава 1. Перестановки и определители.md",
-    "Формула Муавра.md",
-    "Алгебра/Глава 1/Определитель Вандермонда.md",
-    "Алгебра/Глава 1/Перестановки и определители.md",
-    "Алгебра/Глава 1/Свойства определителя.md",
-    "Untitled.canvas",
-    "Алгебра/Глава 5/Глава 5. Комплексные числа.md",
-    "Геометрия/Вопросы на экзамен и досрок.md",
-    "Геометрия/Ответы на экзамен.md",
-    "Алгебра/Глава 1/Теорема Лапласа.md",
-    "Алгебра/Глава 1/Теоремы/Свойства определителя/Равненство определителя нулю.md",
-    "Алгебра/Глава 1/Теоремы/Свойства определителя/Аддитивность.md",
-    "Алгебра/Глава 1/Теоремы/Свойства определителя/Однородность.md",
-    "Алгебра/Глава 1/Теоремы/Свойства определителя/Знакопеременность.md",
-    "Алгебра/Глава 1/Теоремы/Свойства определителя/Равноправие строк и столбцов.md",
-    "Алгебра/Глава 1/Теоремы/Перестановки и определители/О знаке члена определителя.md",
-    "Алгебра/Алгебра.md",
-    "Алгебра/Глава 1/Теоремы/Теорема Лапласа",
-    "Алгебра/Глава 1/Теоремы/Свойства определителя",
-    "Алгебра/Глава 1/Untitled",
-    "Алгебра/Глава 1/Теоремы/Перестановки и определители",
-    "Алгебра/Глава 1/Теоремы",
-    "Алгебра/Глава 5",
-    "Алгебра/Глава 3",
-    "Алгебра/Глава 4",
-    "Алгебра/Глава 2",
-    "Алгебра/Глава 1"
+    "Attachments/Sketch 8.png"
   ]
 }

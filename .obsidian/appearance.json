@@ -2,5 +2,6 @@
   "theme": "obsidian",
   "textFontFamily": "",
   "interfaceFontFamily": "",
-  "cssTheme": "Typewriter"
+  "cssTheme": "Typewriter",
+  "baseFontSize": 16
 }
