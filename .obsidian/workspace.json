@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "Дифференциальное исчисление"
             }
+          },
+          {
+            "id": "96929a1ef214fd4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "МАТАН/Пределы и непрерывность функции.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Пределы и непрерывность функции"
+            }
           }
         ]
       }
@@ -77,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "671b8efb9501477b",
@@ -167,32 +182,33 @@
   },
   "active": "19d2b7d20cd8c456",
   "lastOpenFiles": [
-    "Excalidraw/График 16.md",
+    "МАТАН/Пределы и непрерывность функции.md",
     "МАТАН/Дифференциальное исчисление.md",
     "МАТАН/Конспект для колоквиума.md",
+    "МАТАН/Последовательности.md",
+    "Excalidraw/Drawing 2025-01-15 21.38.46.excalidraw.md",
+    "Excalidraw/График 1.md",
+    "МАТАН/Последовательности комплексных чисел и векторов Rm.md",
+    "МАТАН/Последовательности векторов пространства Rm.md",
+    "МАТАН/Святые определения.md",
+    "Excalidraw/График 16.md",
     "Excalidraw/График 14.md",
     "Excalidraw/График 15.md",
-    "МАТАН/Пределы и непрерывность функции.md",
     "Excalidraw/График 13.md",
     "Excalidraw/График 12.md",
     "Excalidraw/График 4.md",
     "Excalidraw/График 11.md",
-    "МАТАН/Последовательности комплексных чисел.md",
     "Excalidraw/График 10.md",
     "Excalidraw/График 9.md",
     "Excalidraw/График 8.md",
     "Excalidraw/График 6.md",
     "Excalidraw/График 7.md",
-    "МАТАН/Последовательности.md",
     "МАТАН/Символы Ландау.md",
     "TASK FIIT.md",
     "Attachments/photo_2025-01-14 09.22.45.jpeg",
     "Excalidraw/График 3.md",
     "Excalidraw/График 2.md",
-    "Excalidraw/График 1.md",
-    "МАТАН/Последовательности векторов пространства Rm.md",
     "Excalidraw",
-    "МАТАН/Святые определения.md",
     "Attachments/Screenshot 2025-01-13 at 19.56.44.png",
     "Attachments/Screenshot 2025-01-13 at 19.34.45.png",
     "Геометрия/Билеты.md",
